@@ -1,0 +1,1 @@
+# Algoritmo_For-a_Bruta_Para_Cobertura_de_Vertices
